@@ -1,2 +1,2 @@
 # rock-paper-scissor
-This is my first project which is a game 
+This is my first game using fornt end technologies
